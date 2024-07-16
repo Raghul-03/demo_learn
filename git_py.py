@@ -1,0 +1,1 @@
+print("hello makka,\n yellarum epadi iruukingha")
